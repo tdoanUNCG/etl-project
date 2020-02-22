@@ -1,9 +1,9 @@
-Number of companies
-4333
-1660
-2010
-3268
-5503
-897
-548
-61
+Funding Range,Number of companies
+"< 50,000",4333
+"50,000 - 1 million",1660
+1 - 2 million,2010
+2 - 6 million,3268
+6 - 50 million,5503
+50 - 100 million,897
+100 - 500 million,548
+> 500 million,61
