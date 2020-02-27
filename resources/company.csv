@@ -148,7 +148,7 @@ name,state_code, funding_total_usd ,homepage_url, market ,Funding Range
 9Mile Labs,WA,900000,http://9milelabs.com, Software ,"50,000 - 1 million"
 9SLIDES,WA,925000,http://www.9SLIDES.com, Enterprise Software ,"50,000 - 1 million"
 9Star Research,TX,435400,http://www.9starinc.com, Software ,"< 50,000"
-@Pay,NM,3500000,http://atpay.com, Mobile Payments ,2 - 6 million
+#NAME?,NM,3500000,http://atpay.com, Mobile Payments ,2 - 6 million
 A and A Travel Service,CA,0,http://www.aandatravelservices.com/, Travel & Tourism ,
 A Family First Community Services,GA,500000,http://affcs.net, Health and Wellness ,"< 50,000"
 A la Mobile,CA,7550000,http://www.a-la-mobile.com, Mobile ,6 - 50 million
@@ -1656,8 +1656,8 @@ Augmented Pixels CO,NY,500000,http://augmentedpixels.com, Augmented Reality ,"< 
 Augmentix,TX,8590000,http://www.augmentix.com, Hardware + Software ,6 - 50 million
 AugmentWare,MS,90000,http://www.augmentware.com, Business Development ,"< 50,000"
 Augmi Labs,MA,40000,http://www.augmilabs.com, Aerospace ,"< 50,000"
-August,CA,10000000,http://www.august.com, Home Automation ,6 - 50 million
-August,CA,0,http://www.agst.co, Social Media ,
+August_One,CA,10000000,http://www.august.com, Home Automation ,6 - 50 million
+August_Two,CA,0,http://www.agst.co, Social Media ,
 Augustine Temperature Management,MN,3256505,http://hotdog-usa.com, Biotechnology ,2 - 6 million
 AUM Cardiovascular,MN,456000,http://aumcardio.com, Biotechnology ,"< 50,000"
 Aunalytics,IN,820000,http://www.aunalytics.com/index.html, Analytics ,"50,000 - 1 million"

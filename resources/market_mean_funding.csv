@@ -1,0 +1,660 @@
+market,mean_funding
+ 3D ,3795278.5
+ 3D Printing ,12464000
+ 3D Technology ,3533333.33
+ Accounting ,33965669.38
+ Ad Targeting ,13383657.17
+ Advanced Materials ,0
+ Adventure Travel ,353750
+ Advertising ,17881682.78
+ Advertising Exchanges ,75511200
+ Advertising Networks ,3750000
+ Advertising Platforms ,10918933.33
+ Advice ,8110064.22
+ Aerospace ,24154174.56
+ Agriculture ,20675337.55
+ Algorithms ,545000
+ All Markets ,15368623.8
+ All Students ,7969000
+ Alumni ,610000
+ Analytics ,20246034.06
+ Android ,4425278
+ Angels ,1600000
+ Animal Feed ,4600000
+ App Discovery ,1850000
+ App Marketing ,6462873.5
+ App Stores ,1604250
+ Application Performance Monitoring ,11807666.67
+ Application Platforms ,6132384.88
+ Apps ,3656174.09
+ Architecture ,21311683.67
+ Archiving ,13010000
+ Art ,1321428.57
+ Artificial Intelligence ,2421166.67
+ Artists Globally ,1059039.75
+ Assisitive Technology ,1300000
+ Auctions ,7400122.31
+ Audio ,8711561.54
+ Augmented Reality ,1418000
+ Auto ,2850000
+ Automotive ,33675700.63
+ B2B ,5995197.4
+ Babies ,783333.33
+ Baby Accessories ,0
+ Baby Boomers ,167000
+ Banking ,24971130.67
+ Batteries ,102405349.2
+ Beauty ,11762703.31
+ Bicycles ,150000
+ Big Data ,14693387.35
+ Big Data Analytics ,14776478.88
+ Billing ,23918000
+ Bio-Pharm ,68668086.5
+ Bioinformatics ,2496109.33
+ Biometrics ,500000
+ Biotechnology ,23757027.28
+ Biotechnology and Semiconductor ,13486929
+ Bitcoin ,6665363.19
+ Blogging Platforms ,9983961.85
+ Boating Industry ,966000
+ Brand Marketing ,9833485.83
+ Bridging Online and Offline ,642500
+ Broadcasting ,43891666.67
+ Brokers ,46089383
+ Browser Extensions ,34004166.67
+ Business Analytics ,3754833.17
+ Business Development ,1756724.67
+ Business Information Systems ,7759333.33
+ Business Intelligence ,12836173.68
+ Business Productivity ,1304000
+ Business Services ,21313530.17
+ CRM ,6416886.76
+ Cable ,8704000
+ Career Management ,7914935.06
+ Career Planning ,3837500
+ Cars ,4482437.11
+ Celebrity ,5191666.67
+ Certification Test ,6500000
+ Charity ,746250
+ Charter Schools ,2098333.33
+ Chat ,12691666.67
+ Chemicals ,201742775
+ Classifieds ,378333.33
+ Clean Energy ,15962571.43
+ Clean Technology ,43284177.79
+ Clinical Trials ,1271000
+ Cloud Computing ,14756055.29
+ Cloud Data Services ,71470329.16
+ Cloud Infrastructure ,20299916
+ Cloud Management ,25647354
+ Cloud Security ,32382730.62
+ Coffee ,22855500
+ Collaboration ,10933457.74
+ Collaborative Consumption ,2261111.11
+ Collectibles ,261333.33
+ College Campuses ,100000
+ College Recruiting ,114000
+ Colleges ,9419766.8
+ Commercial Real Estate ,5052777.78
+ Commercial Solar ,2500000
+ Commodities ,8020000
+ Communications Hardware ,104741093.1
+ Communications Infrastructure ,7221478.56
+ Communities ,93736373.3
+ Comparison Shopping ,2568229.67
+ Computer Vision ,6097143.75
+ Computers ,17388700.75
+ Concerts ,6003125
+ Construction ,100817396.8
+ Consulting ,6985832.16
+ Consumer Behavior ,3110000
+ Consumer Electronics ,24368329.82
+ Consumer Goods ,3770951.83
+ Consumer Internet ,4012193.19
+ Consumers ,23394876.95
+ Contact Management ,4032500.33
+ Content ,10720600.58
+ Content Creators ,201914000
+ Content Delivery ,28420000
+ Content Discovery ,3831794.71
+ Content Syndication ,12488750
+ Contests ,10000
+ Cooking ,11700628
+ Corporate IT ,11601105
+ Corporate Training ,1670446
+ Corporate Wellness ,6118000
+ Cosmetic Surgery ,57559.5
+ Cosmetics ,1716666.67
+ Coupons ,3625769.23
+ Coworking ,18200000
+ Craft Beer ,113636.29
+ Craigslist Killers ,6934687.5
+ Creative ,6518110.12
+ Creative Industries ,19044025
+ Credit ,144422857.1
+ Credit Cards ,39539000
+ Crowdfunding ,2668892.86
+ Crowdsourcing ,11130204
+ Curated Web ,6705110.71
+ Customer Service ,17234197.57
+ Customer Support Tools ,14030105.33
+ Cyber ,3300000
+ Cyber Security ,12246000
+ DIY ,4643750
+ DOD/Military ,723531
+ Data Center Automation ,62750002
+ Data Center Infrastructure ,41400000
+ Data Centers ,24287184.42
+ Data Integration ,26148358.62
+ Data Mining ,11018129.17
+ Data Privacy ,16665000
+ Data Security ,34637715.31
+ Data Visualization ,8537591
+ Databases ,15770568.96
+ Defense ,875000
+ Demographies ,11650000
+ Dental ,32029256
+ Design ,10245133.52
+ Designers ,5900000
+ Developer APIs ,4940210.53
+ Developer Tools ,5122130.25
+ Development Platforms ,12571175
+ Diabetes ,41323270
+ Diagnostics ,49769477.43
+ Dietary Supplements ,0
+ Digital Entertainment ,9263333.33
+ Digital Media ,12111626.48
+ Digital Rights Management ,0
+ Digital Signage ,31100000
+ Direct Marketing ,10607387.8
+ Direct Sales ,18000
+ Discounts ,1373280.71
+ Displays ,43455010.25
+ Distributed Generation ,30000000
+ Distribution ,18827153.56
+ Distributors ,1104641
+ Doctors ,40783333.33
+ Document Management ,1753020.75
+ Domains ,117500
+ Drones ,12000000
+ E-Books ,7400000
+ E-Commerce ,14768448
+ E-Commerce Platforms ,5994425
+ EBooks ,150000
+ Early-Stage Technology ,2650000
+ Ediscovery ,8137188.4
+ Education ,6285415.13
+ Educational Games ,272666.67
+ Elder Care ,0
+ Electric Vehicles ,12850000
+ Electrical Distribution ,16393157
+ Electronic Health Records ,14975000
+ Electronics ,14085049
+ Email ,6630160.9
+ Email Marketing ,28321412.4
+ Email Newsletters ,50000
+ Embedded Hardware and Software ,1229000
+ Emerging Markets ,25000000
+ Employer Benefits Programs ,6000000
+ Employment ,5467083.33
+ Energy ,32562107.32
+ Energy Efficiency ,26940533.55
+ Energy IT ,1405666.67
+ Energy Management ,7079187.57
+ Engineering Firms ,11475000
+ English-Speaking ,1750000
+ Enterprise 2.0 ,11298100
+ Enterprise Application ,37945000
+ Enterprise Purchasing ,31300000
+ Enterprise Resource Planning ,40768750
+ Enterprise Search ,15462499.33
+ Enterprise Security ,11800000
+ Enterprise Software ,19179410.18
+ Enterprises ,10162427.94
+ Entertainment ,8595978.82
+ Entertainment Industry ,1125002.33
+ Entrepreneur ,5785714.29
+ Environmental Innovation ,34577305.2
+ Estimation and Quoting ,800000
+ Event Management ,11722124.92
+ Events ,10208653.81
+ Exercise ,3933333.33
+ Face Recognition ,3150000
+ Facebook Applications ,4884852.27
+ Families ,456666.67
+ Fantasy Sports ,15638326.55
+ Farmers Market ,166666.67
+ Farming ,0
+ Fashion ,8949334.89
+ File Sharing ,54831582.62
+ Film ,6147537.67
+ Film Production ,262500000
+ Finance ,15007837.34
+ Finance Technology ,15638838.08
+ Financial Exchanges ,1350000
+ Financial Services ,7501347.55
+ Fitness ,3106053.29
+ Flash Sales ,18466666.67
+ Flash Storage ,21519275
+ Fleet Management ,47875000
+ Food Processing ,64745750
+ Forums ,6956000
+ Franchises ,7000000
+ Fraud Detection ,22366666.67
+ Freelancers ,3233714.29
+ Freemium ,130000
+ FreetoPlay Gaming ,21885000
+ Funeral Industry ,1250000
+ Gambling ,3317211
+ Game ,2240000
+ Game Mechanics ,38055000
+ Games ,9928428.93
+ Gamification ,913400.1
+ Gas ,400000
+ Genetic Testing ,27614441
+ Geospatial ,19850550
+ Gift Card ,1180041.67
+ Golf Equipment ,450000
+ Google Apps ,35700000
+ Google Glass ,100000
+ Governance ,8000000
+ Government Innovation ,6477500
+ Governments ,2312500
+ Gps ,6316005.14
+ Graphics ,4032692
+ Green ,5538833.33
+ Green Consumer Goods ,7950000
+ Groceries ,27400000
+ Group Buying ,10515625
+ Group SMS ,1500000
+ Guides ,14175557.75
+ Hardware ,31310107.81
+ Hardware + Software ,15209429.46
+ Health Care ,31155819.81
+ Health Care Information Technology ,7458523.67
+ Health and Insurance ,8529439.4
+ Health and Wellness ,15740722.18
+ Healthcare Services ,14839504.45
+ Heavy Industry ,45299500
+ Hedge Funds ,1580000
+ High Schools ,4024000
+ High Tech ,5700000
+ Home & Garden ,26388290
+ Home Automation ,13789729.5
+ Home Decor ,19319978
+ Home Owners ,22000
+ Home Renovation ,361500
+ Hospitality ,7885091.6
+ Hospitals ,11669265.29
+ Hotels ,13330071.35
+ Human Computer Interaction ,11018106.5
+ Human Resource Automation ,5872344
+ Human Resources ,14976377.21
+ Humanitarian ,5537500
+ ICT ,0
+ IT Management ,31675000
+ IT and Cybersecurity ,6391666.67
+ IaaS ,12701657.88
+ Identity ,14661424.75
+ Identity Management ,27784777.89
+ Image Recognition ,5424500
+ Incentives ,8182347.5
+ Incubators ,0
+ Indoor Positioning ,12613333.33
+ Industrial ,1632000
+ Industrial Automation ,1315250
+ Industrial Energy Efficiency ,24656275
+ Information Security ,23000180.71
+ Information Services ,3685238.5
+ Information Technology ,19730334.12
+ Infrastructure ,34250000
+ Innovation Engineering ,17489667.5
+ Innovation Management ,2700000
+ Insurance ,18240076.7
+ Intellectual Asset Management ,0
+ Intelligent Systems ,6076099.5
+ Interest Graph ,1444125
+ Interface Design ,3800000
+ Interior Design ,5600000
+ Internet ,79840585.3
+ Internet Infrastructure ,5664000
+ Internet Marketing ,6658396.05
+ Internet Radio Market ,2500000
+ Internet Service Providers ,18999999
+ Internet TV ,3283290
+ Internet Technology ,13485455
+ Internet of Things ,12498096.82
+ Investment Management ,63875000
+ Jewelry ,7757500
+ Journalism ,5330594.38
+ K-12 Education ,678013.36
+ Kids ,2960914.06
+ Kinect ,850000
+ Knowledge Management ,93750
+ Language Learning ,8313750
+ Law Enforcement ,2163571.43
+ Lead Generation ,20306082.25
+ Lead Management ,13555000
+ Legal ,9437291.26
+ Leisure ,7161666.67
+ Licensing ,5856318.67
+ Life Sciences ,16916450.2
+ Lifestyle ,31699545.45
+ Lifestyle Businesses ,1100000
+ Lifestyle Products ,17000
+ Lighting ,70250000
+ Linux ,21640000
+ Local ,10435451.92
+ Local Advertising ,12757916.67
+ Local Based Services ,3524000
+ Local Businesses ,58384089.11
+ Local Coupons ,140000
+ Local Search ,5865655.62
+ Location Based Services ,9256054.52
+ Logistics ,2090416.67
+ Logistics Company ,3860000
+ Loyalty Programs ,16726566.62
+ M2M ,5879855.75
+ MMO Games ,9400000
+ Mac ,3790000
+ Machine Learning ,2807849.8
+ Manufacturing ,15818958.34
+ Maps ,9178436.5
+ Market Research ,16511679.53
+ Marketing Automation ,19415547.15
+ Marketplaces ,3683655.27
+ Mass Customization ,1348120.2
+ Match-Making ,0
+ Material Science ,5936662
+ Mechanical Solutions ,0
+ Media ,5325593.65
+ Medical ,3623156.23
+ Medical Devices ,31685708.28
+ Medical Marijuana Patients ,137500
+ Medical Professionals ,47767104
+ Meeting Software ,4564374
+ Messaging ,12147483.91
+ MicroBlogging ,940000
+ Mining Technologies ,1500000
+ Mobile ,46791714.05
+ Mobile Advertising ,11281875
+ Mobile Analytics ,33333.33
+ Mobile Commerce ,2436145.29
+ Mobile Coupons ,4250000
+ Mobile Devices ,9147558.62
+ Mobile Emergency&Health ,290000
+ Mobile Enterprise ,2717500
+ Mobile Games ,17623674
+ Mobile Health ,1468165
+ Mobile Infrastructure ,18235300
+ Mobile Payments ,13607337.48
+ Mobile Security ,39585106.15
+ Mobile Shopping ,4988333
+ Mobile Social ,58000
+ Mobile Software Tools ,12063332.71
+ Mobile Video ,3933750
+ Mobility ,4682840.88
+ Monetization ,21067529.43
+ Moneymaking ,100000
+ Motion Capture ,421057
+ Multi-level Marketing ,35000000
+ Music ,6983143.32
+ Music Services ,4259714.29
+ Music Venues ,775000
+ NFC ,256666.67
+ Nanotechnology ,18834319.76
+ Natural Resources ,692000
+ Navigation ,37241470.2
+ Network Security ,53161906.21
+ Networking ,6943493.94
+ Neuroscience ,41000000
+ News ,7249955.2
+ Nightclubs ,65000
+ Non Profit ,10097400
+ Nonprofits ,3881369
+ Nutrition ,48750
+ Office Space ,232500
+ Offline Businesses ,16362500
+ Oil ,120306666.7
+ Oil & Gas ,59002316.4
+ Oil and Gas ,288909224.3
+ Online Dating ,1701500
+ Online Gaming ,8482000
+ Online Rental ,4653038.55
+ Online Reservations ,990715.29
+ Online Scheduling ,3855287.44
+ Online Shopping ,12859966.29
+ Online Travel ,1128750
+ Online Video Advertising ,13302500
+ Open Source ,15309173.89
+ Opinions ,14253845.2
+ Optimization ,27292550.93
+ Organic ,3908333.33
+ Organic Food ,6581428.43
+ Outdoor Advertising ,1582500
+ Outdoors ,250000
+ Outsourcing ,2968888.89
+ P2P Money Transfer ,197883333.3
+ PC Gaming ,2258000
+ PaaS ,14357489.65
+ Parenting ,1144395.11
+ Parking ,3200000
+ Payments ,21866746
+ Peer-to-Peer ,58877452.05
+ Performance Marketing ,3317400
+ Personal Branding ,50000
+ Personal Finance ,27940871.82
+ Personal Health ,2712365.86
+ Personalization ,6255227.42
+ Pets ,5417938.35
+ Pharmaceuticals ,33588844.04
+ Photo Editing ,27000000
+ Photo Sharing ,3806096.5
+ Photography ,4499668.92
+ Physicians ,126052163.3
+ Plumbers ,17750820
+ Point of Sale ,25165000
+ Politics ,8823734.75
+ Polling ,360000
+ Portals ,2700000
+ Postal and Courier Services ,771666.67
+ Predictive Analytics ,21916950.9
+ Presentations ,13048992.86
+ Price Comparison ,3797333.33
+ Printing ,7735094
+ Privacy ,19221883.33
+ Private Social Networking ,179000
+ Procurement ,802500
+ Product Design ,9054250
+ Product Development Services ,6950000
+ Product Search ,400000
+ Productivity Software ,4739222.11
+ Professional Networking ,576666.67
+ Professional Services ,668333.33
+ Project Management ,2079946.82
+ Promotional ,947906.67
+ Property Management ,1981250
+ Proximity Internet ,41000000
+ Psychology ,250000
+ Public Relations ,4977214.07
+ Public Safety ,16399999
+ Public Transportation ,25592898.05
+ Publishing ,8383796.59
+ Q&A ,3500000
+ QR Codes ,1163208.67
+ Quantitative Marketing ,6000000
+ RFID ,200000
+ RIM ,2300000
+ Radical Breakthrough Startups ,6500000
+ Rapidly Expanding ,20000000
+ Real Estate ,14368554.5
+ Real Estate Investors ,4130000
+ Real Time ,7458814.47
+ Realtors ,0
+ Recipes ,107500000
+ Recruiting ,8853007.3
+ Recycling ,3461187.5
+ Registrars ,300000
+ Religion ,16250000
+ Renewable Energies ,6378358.75
+ Renewable Tech ,745000
+ Rental Housing ,600000
+ Reputation ,5450125
+ Residential Solar ,1500000
+ Restaurants ,5304534.07
+ Retail ,10754821.71
+ Retail Technology ,3838661.33
+ Retirement ,2000000
+ Reviews and Recommendations ,6164936.84
+ Risk Management ,21480492.33
+ Robotics ,19587558.33
+ SEO ,7582166.67
+ SMS ,13371975.45
+ SaaS ,12803952.39
+ Sales Automation ,10821636.36
+ Sales and Marketing ,6917898.97
+ Search ,11827870.51
+ Search Marketing ,18300000
+ Security ,15882025.19
+ Self Development ,500000
+ Self Storage ,260000
+ Semantic Search ,16576641.5
+ Semantic Web ,11408333.33
+ Semiconductor Manufacturing Equipment ,19550000
+ Semiconductors ,33238405.59
+ Senior Citizens ,2100000
+ Senior Health ,1250000
+ Sensors ,2498477.11
+ Service Industries ,16820000
+ Service Providers ,2162500
+ Services ,27500099.27
+ Sex ,4800000
+ Shipping ,695714.29
+ Shoes ,55187477.5
+ Shopping ,14438465.93
+ Skill Assessment ,1985000
+ Small and Medium Businesses ,3628052.17
+ Smart Grid ,59736891
+ Social + Mobile + Local ,6149758.33
+ Social Bookmarking ,1766250
+ Social Business ,5883556
+ Social Buying ,14377677.86
+ Social CRM ,32783333.33
+ Social Commerce ,6592718.45
+ Social Fundraising ,3610000
+ Social Games ,2828698.64
+ Social Investing ,3230000
+ Social Media ,4643878.9
+ Social Media Advertising ,4400000
+ Social Media Management ,473333.33
+ Social Media Marketing ,5120701.75
+ Social Media Monitoring ,7346194.57
+ Social Media Platforms ,7017591.25
+ Social Network Media ,5233827.56
+ Social Opinion Platform ,7000000
+ Social Recruiting ,12607142.86
+ Social Search ,5101500
+ Social Television ,1363333.33
+ Social Travel ,556666.67
+ Software ,11828472.72
+ Software Compliance ,0
+ Solar ,242539509.2
+ Space Travel ,37500000
+ Spas ,0
+ Specialty Chemicals ,70000000
+ Specialty Foods ,1162500
+ Specialty Retail ,3366666.67
+ Speech Recognition ,6700000
+ Sponsorship ,1328333.33
+ Sporting Goods ,654500
+ Sports ,4557414.64
+ Staffing Firms ,45000
+ Startups ,4181112.54
+ Stock Exchanges ,722000
+ Storage ,39734987.72
+ Subscription Businesses ,6383154.4
+ Sunglasses ,800000
+ Supply Chain Management ,18503515.14
+ Surveys ,5364044
+ Sustainability ,23311359.38
+ Synchronization ,3675000
+ Synthetic Biology ,0
+ Systems ,6514500
+ TV Production ,50000000
+ Tablets ,2140833.33
+ Task Management ,5986666.67
+ Taxis ,118000
+ Tea ,182000
+ Teachers ,877500
+ Tech Field Support ,17958000
+ Technical Continuing Education ,870000
+ Technology ,50479235.92
+ Telecommunications ,36565209.69
+ Telephony ,35265626
+ Television ,13582561.44
+ Test and Measurement ,13267753.5
+ Testing ,51470523.14
+ Text Analytics ,793333.33
+ Textbooks ,2141875
+ Textiles ,239000
+ Therapeutics ,54673773.85
+ Ticketing ,1258636.36
+ Timeshares ,5000000
+ Tourism ,46666.67
+ Toys ,9555929
+ Tracking ,10563723.47
+ Trading ,350927839.6
+ Training ,3614214.36
+ Translation ,11692696.67
+ Transportation ,32282500.5
+ Travel ,19598591.49
+ Travel & Tourism ,7000000
+ Trusted Networks ,110000
+ Tutoring ,6308333.33
+ Twin-Tip Skis ,750000
+ Twitter Applications ,9377240.81
+ Unifed Communications ,15515193.29
+ Universities ,175000
+ User Experience Design ,930209.12
+ Utilities ,36206206.5
+ Vacation Rentals ,748333.33
+ Venture Capital ,6565884.62
+ Vertical Search ,700000
+ Video ,16845851.26
+ Video Chat ,372000
+ Video Conferencing ,1500000
+ Video Games ,16757475.78
+ Video Streaming ,27164282.82
+ Video on Demand ,14158098
+ Virtual Currency ,358333.33
+ Virtual Goods ,6000000
+ Virtual Workforces ,10833333.33
+ Virtual Worlds ,2100000
+ Virtualization ,25239408.89
+ Visual Search ,16913100
+ Visualization ,3314181
+ VoIP ,12525532.38
+ Water ,637879.8
+ Water Purification ,16663804
+ Wealth Management ,66750000
+ Web Browsers ,5606250
+ Web CMS ,49122500.38
+ Web Design ,1613636.36
+ Web Development ,12010604.34
+ Web Hosting ,32816699.66
+ Web Tools ,8884220.94
+ WebOS ,2000
+ Weddings ,2821500
+ Wholesale ,0
+ Wind ,14000000
+ Windows Phone 7 ,9604639
+ Wine And Spirits ,684444.44
+ Wireless ,37147907.21
+ Women ,10242000
+ World Domination ,29466656.33
+ Writers ,345000
+ iOS ,8280962.1
+ iPad ,2918987.43
+ iPhone ,4524584.76
+ iPod Touch ,1369000
+ mHealth ,25000
